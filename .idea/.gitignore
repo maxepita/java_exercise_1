@@ -1,5 +1,4 @@
 # Default ignored files
-/bin
-/out
-/shelf/
-/workspace.xml
+bin/
+out/
+
